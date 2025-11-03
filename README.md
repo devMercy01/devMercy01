@@ -3,9 +3,7 @@
 <h1>👋 Hi, I'm Eyo Blessing</h1>
 <h3>💻 Passionate Web Developer | Computer Engineer</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=devMercy01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 ---
 
